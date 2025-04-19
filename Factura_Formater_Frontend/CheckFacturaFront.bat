@@ -1,0 +1,2 @@
+pm2 logs factura_formater
+pause
