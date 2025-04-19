@@ -1,7 +1,5 @@
 npm install
 
-pm2 start Main.js --name factura_formater
+pm2 start npm --name factura_formater -- run dev
 pm2 save
-pm2 startup 
-
 pause
